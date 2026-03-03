@@ -1,4 +1,4 @@
-FROM node:25-debian13-sfw-ent-dev
+FROM node:25.1-debian13-sfw-ent-dev
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
